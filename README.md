@@ -24,3 +24,4 @@ Quelle 3:
 **Was lief nicht gut** :
 Während des Projekts haben zwei unserer Mitglieder weder Zeit investiert noch irgendetwas gemacht. Dadurch war es schwer, unsere Website fertigzustellen, da wir am Anfang festgelegt hatten, wer welchen Teil übernimmt. Daher konnten wir unsere Seite nicht fertigstellen. Die Kommunikation mit den beiden Mitgliedern aus der anderen Klasse war ebenfalls nicht optimal.
 **VBV** :
+Um dieses Problem in Zukunft zu vermeiden, wäre es ratsam, regelmäßige Besprechungen abzuhalten, um den Fortschritt zu überprüfen und Probleme zu lösen. Es ist auch wichtig, eine klare Rollenverteilung festzulegen, um Missverständnisse zu vermeiden.
